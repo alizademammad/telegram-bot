@@ -1,1 +1,1 @@
-worker: python selif_bot.py
+worker: python bot.py
